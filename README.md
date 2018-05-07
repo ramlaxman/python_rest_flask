@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.org/ramlaxman/python_rest_flask.svg?branch=master)](https://www.travis-ci.org/ramlaxman/python_rest_flask)
+
 # Flask Rest API
 
 This code is a self explanatory code, I got from [impythonist](https://impythonist.wordpress.com/2015/07/12/build-an-api-under-30-lines-of-code-with-python-and-flask/) blog. The current repository,
