@@ -4,7 +4,7 @@ python:
   - "3.6"
 
 after_success:
-  - ctrl+c
+  - CTRL+C
 
 script:
   - python server.py
